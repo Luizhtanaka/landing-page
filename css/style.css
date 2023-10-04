@@ -207,6 +207,7 @@ img{
     background-color: #00181e;
     border-radius: 15px 15px 15px 15px;
     padding: 50px 40px;
+    margin-bottom: 50px;
 }
 
 label {
@@ -237,3 +238,13 @@ label {
     background-color: #015f56;
   }
   
+.rodape{
+background-color: #00181e;
+
+}
+
+.rodape img{
+    max-width: 250px;
+    margin: 0 auto;
+    padding: 30px;
+}
